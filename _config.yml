@@ -23,8 +23,8 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Dr. Chunwei Ma"
-  pronouns         : # example: "she/her"  
+  name             : "Chunwei Ma"
+  pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Nantong, China"
   employer         : "Red Brick University"

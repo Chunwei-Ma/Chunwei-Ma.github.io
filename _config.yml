@@ -39,8 +39,8 @@ author:
   impactstory      : # URL
   orcid            : "http://orcid.org/0000-0002-5434-6774"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   scopus           : # URL
 
   # Repositories and software development

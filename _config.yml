@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Chunwei Ma / Personal Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Chunwei Ma"
 description              : &description "personal description"
 url                      : https://chunwei-ma.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -25,9 +25,9 @@ author:
   avatar           : "chunwei.png"
   name             : "Chunwei Ma"
   pronouns         : #"she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Power Electronics"
   location         : "Nantong, China"
-  employer         : "Red Brick University"
+  employer         : "Nantong University"
   uri              : # URL
   email            : "chunwei.ma@ieee.org" 
 
@@ -40,14 +40,14 @@ author:
   orcid            : "http://orcid.org/0000-0002-5434-6774"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : "https://www.researchgate.net/profile/Chunwei-Ma"
   scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : #"academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 

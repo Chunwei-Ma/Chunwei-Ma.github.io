@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Chunwei Ma / Personal Homepage"
+title                    : "Chunwei Ma Homepage"
 title_separator          : "-"
 name                     : &name "Chunwei Ma"
 description              : &description "personal description"
@@ -25,7 +25,7 @@ author:
   avatar           : "chunwei.png"
   name             : "Chunwei Ma"
   pronouns         : #"she/her"  
-  bio              : "Power Electronics"
+  bio              : "Power Electronics and Motor Drives"
   location         : "Nantong, China"
   employer         : "Nantong University"
   uri              : # URL
@@ -34,7 +34,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=9vpc9hsAAAAJ&hl=zh-CN&oi=ao"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "http://orcid.org/0000-0002-5434-6774"
@@ -53,7 +53,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username

@@ -9,7 +9,7 @@ To facilitate the small clamp coil in the transmitter, this paper proposes a fam
 The output thresholds of the IPT charger with the proper compensation can be readily configured to cope with the desired charging profile, and the clamp coil can be designed very small to decrease the corresponding cost and size. 
 In addition, the proposed three-coil IPT charger still features automatic and smooth CC-to-CV transition to eliminate wireless communication, near unity power factor to minimize voltage-ampere (VA) ratings, soft switching to improve transfer efficiency, and open-circuit protection during CC charging. 
 An experimental prototype of a 48 V/2.5 A battery charger is built to verify the analysis.'
-date: 2023-06
+date: 2023-06-01
 venue: 'IEEE Transactions on Power Electronics'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'

@@ -13,3 +13,8 @@ I am extraordinarily honored and grateful to have been supervised by Professor [
 From 2020 to 2021, I worked as a Hardware Engineer at DJI [(SZ DJI Technology Co., Ltd.)](https://www.dji.com) in Shenzhen, where I was responsible for motor drive design for the [Avata](https://www.dji.com/cn/products/camera-drones#avata-series) series drones.
 
 My current research interests include wireless power transfer, power factor correction converters, and motor drives.
+
+News
+======
+* 2025.06: I received the Ph.D degree in electrical engineering from [School of Electrical Engineering](https://ee.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/).
+* 2025.01: I'm delighted that our paper '[Four-Switch Buck-Boost Integrated Bridge for Bidirectional Inductive Power Transfer With Hybrid Energy Storage System](https://ieeexplore.ieee.org/document/10896815)' has been accepted by IEEE TIE (Impact Factor: 7.2). The preprint is available. Citations are appreciated!"

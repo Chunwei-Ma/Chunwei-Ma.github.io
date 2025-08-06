@@ -17,4 +17,4 @@ My current research interests include wireless power transfer, power factor corr
 News
 ======
 * 2025.06: I received the Ph.D degree in electrical engineering from [School of Electrical Engineering](https://ee.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/).
-* 2025.01: I'm delighted that our paper '[Four-Switch Buck-Boost Integrated Bridge for Bidirectional Inductive Power Transfer With Hybrid Energy Storage System](https://ieeexplore.ieee.org/document/10896815)' has been accepted by IEEE TIE (Impact Factor: 7.2). The preprint is available. Citations are appreciated!"
+* 2025.01: I'm delighted that our paper '[Four-Switch Buck-Boost Integrated Bridge for Bidirectional Inductive Power Transfer With Hybrid Energy Storage System](https://ieeexplore.ieee.org/document/10896815)' has been accepted by IEEE TIE (Impact Factor: 7.2). The preprint is available. Citations are appreciated!
